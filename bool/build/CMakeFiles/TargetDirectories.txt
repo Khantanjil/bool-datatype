@@ -1,0 +1,7 @@
+/home/khan/projects/allinone/build/CMakeFiles/install/strip.dir
+/home/khan/projects/allinone/build/CMakeFiles/edit_cache.dir
+/home/khan/projects/allinone/build/CMakeFiles/rebuild_cache.dir
+/home/khan/projects/allinone/build/CMakeFiles/list_install_components.dir
+/home/khan/projects/allinone/build/CMakeFiles/install/local.dir
+/home/khan/projects/allinone/build/CMakeFiles/allinone.dir
+/home/khan/projects/allinone/build/CMakeFiles/install.dir
